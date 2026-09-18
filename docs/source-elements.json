@@ -1,0 +1,1432 @@
+{
+  "categories": [
+    {
+      "type": "section-category",
+      "slug": "osnovnaya",
+      "title": "Закуски",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "salaty",
+      "title": "Салаты",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "supy",
+      "title": "Супы",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "gorjachie-bljuda",
+      "title": "Горячие блюда",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "rolly",
+      "title": "Роллы",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "zapechjonnye-rolly",
+      "title": "Запечённые роллы",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "garniry",
+      "title": "Гарниры",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "sousy",
+      "title": "Соусы",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "deserty",
+      "title": "Десерты",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "vino",
+      "title": "Красное вино",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "beloe-vino",
+      "title": "Белое вино",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "rozovoe-vino",
+      "title": "Розовое вино",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "igristoe-vino",
+      "title": "Игристое вино",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "vodka",
+      "title": "Водка",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "rom",
+      "title": "Ром",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "dzhin",
+      "title": "Джин",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "likjory-i-bittery",
+      "title": "Ликёры и биттеры",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "tekila",
+      "title": "Текила",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "konjak-i-brendi",
+      "title": "Коньяк и бренди",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "viski",
+      "title": "Виски",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "pivo",
+      "title": "Бутылочное Пиво",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "razlivnoe-pivo",
+      "title": "Разливное пиво",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "shoty",
+      "title": "Шоты",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "avtorskie-koktejli",
+      "title": "Авторские коктейли",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "bezalkogolnye-koktejli",
+      "title": "Безалкогольные коктейли",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "avtorskie-limonady",
+      "title": "Авторские лимонады",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "avtorskie-chai",
+      "title": "Авторские чаи",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "chaj",
+      "title": "Чай",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "kofe",
+      "title": "Кофе",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "bezalkogolnye-napitki",
+      "title": "Безалкогольные напитки",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "special",
+      "title": "SPECIAL",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "vina-po-bokalam",
+      "title": "Вина по бокалам",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "infuse",
+      "title": "Домашний инфьюз",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "milksheik",
+      "title": "Милкшейки",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "parovye-koktejli",
+      "title": "Паровые коктейли",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "picca",
+      "title": "Пицца",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "sangriya",
+      "title": "Сангрии",
+      "cmsManaged": true
+    },
+    {
+      "type": "section-category",
+      "slug": "smyzi",
+      "title": "Смузи",
+      "cmsManaged": true
+    }
+  ],
+  "products": [
+    {
+      "type": "product-card",
+      "id": "461",
+      "title": "Мясная тарелка",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "470",
+      "title": "Фруктовая тарелка",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "473",
+      "title": "Сырная тарелка",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "477",
+      "title": "Тартар из лосося",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "480",
+      "title": "Тартар из говядины",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "486",
+      "title": "Вителло Тоннато",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "943",
+      "title": "Брускетта с тунцом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "945",
+      "title": "Брускетта с лососем",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "947",
+      "title": "Креветки в соусе Дорблю",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "949",
+      "title": "Микс орехов",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "492",
+      "title": "Салат Нисуаз со свежим тунцом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "495",
+      "title": "Салат с ростбифом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "519",
+      "title": "Цезарь с креветками",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "526",
+      "title": "Салат с креветками",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "537",
+      "title": "Поке с лососем",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "951",
+      "title": "Салат с уткой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "954",
+      "title": "Салат с индейкой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1201",
+      "title": "Салат с лососем, маринованным в карамели",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1203",
+      "title": "Салат с гребешками и трюфельным маслом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1205",
+      "title": "Салат с хрустящими вешенками",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "541",
+      "title": "Том ям с морепродуктами",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "547",
+      "title": "Куриный суп с яичной лапшой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "551",
+      "title": "Борщ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1207",
+      "title": "Сливочный суп с филе лосося",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1209",
+      "title": "Воздушный грибной крем-суп",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1211",
+      "title": "Крем-суп из цукини",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "554",
+      "title": "Филе-миньон",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "557",
+      "title": "Паста с тартаром из тунца и сыром страчателла",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "560",
+      "title": "Яичная лапша с морепродуктами",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "566",
+      "title": "Стейк из лосося",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "569",
+      "title": "Куриная грудка с картофелем и овощами в соусе демиглас",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "575",
+      "title": "Стейк из индейки",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "582",
+      "title": "Бургер",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "970",
+      "title": "Паста с креветками и тартаром",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1195",
+      "title": "Равиоли с рикоттой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1197",
+      "title": "Ризотто с грибами",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1199",
+      "title": "Ростбиф в соусе Бородино",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "588",
+      "title": "Филадельфия",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "591",
+      "title": "Калифорния",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "594",
+      "title": "Ролл том ям",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "601",
+      "title": "Ролл с лососем и тунцом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "974",
+      "title": "Ролл с креветкой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "607",
+      "title": "Картофель фри",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "616",
+      "title": "Киноа",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "980",
+      "title": "Батат фри с соусом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "982",
+      "title": "Картофель бэби с грибами",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1093",
+      "title": "Хлебная корзина",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "632",
+      "title": "Сырный",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "634",
+      "title": "Имбирный",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "636",
+      "title": "Кунжутный",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "638",
+      "title": "Сливочный хрен",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "640",
+      "title": "Барбекю",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "642",
+      "title": "Кетчуп",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "627",
+      "title": "Тирамису",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "988",
+      "title": "Сметанник с клубникой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "990",
+      "title": "Шоколадный фондан",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1193",
+      "title": "Чизкейк классический",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1214",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МЕРЛО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1217",
+      "title": "ПАПИЛОН ПИНО НУАР",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1219",
+      "title": "БИГ ИНСАЛТ ВАЙН КО. ФУЛ ОФ КРОК ШИРАЗ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1221",
+      "title": "ЛАЙФСТАЙЛ МЕРЛО ВЕСТЕРН КЕЙП",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1224",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МОСКАТЕЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1226",
+      "title": "ВАЙНХАУС ШНАЙДЕР РИСЛИНГ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1228",
+      "title": "АХИМ МАЛЕР РИСЛИНГ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1230",
+      "title": "АДЕГА ПОНТЕ ДА БАРКА РОЗЕ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1232",
+      "title": "ДИ КАСПИКО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1234",
+      "title": "ДИ КАСПИКО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1236",
+      "title": "ЭНДЕМЫ РИСЛИНГ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "686",
+      "title": "АРХАНГЕЛЬСКАЯ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "688",
+      "title": "МАМОНТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "690",
+      "title": "БЕЛУГА НОБЛ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1119",
+      "title": "ХАНСКАЯ ЛИМИТЕД ЭДИШН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1261",
+      "title": "БАКАРДИ КАРТА НЭГРА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1263",
+      "title": "БАКАРДИ КАРТА БЛАНКА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1265",
+      "title": "БОМБЕЙ САПФИР",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "711",
+      "title": "ЕГЕРМЕЙСТЕР",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "713",
+      "title": "КСЕНТА АБСЕНТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1258",
+      "title": "БЕЙЛИС ОРИДЖИНАЛ АЙРИШ КРИМ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1287",
+      "title": "ОЛЬМЕКА БЕЛАЯ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1289",
+      "title": "ОЛЬМЕКА ЗОЛОТАЯ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1292",
+      "title": "ЛА ПАВЕСА ПЛАТА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1267",
+      "title": "АСКАНЕЛИ 5 ЛЕТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1270",
+      "title": "ХЕННЕССИ ВС",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1273",
+      "title": "ХЕННЕССИ ВСОП",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1294",
+      "title": "ДЖЕК ДЭНИЕЛС ТЕННЕССИ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1298",
+      "title": "ДЖОННИ УОКЕР РЭД ЛЕЙБЛ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1301",
+      "title": "СИНГЛТОН 12 ЛЕТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1303",
+      "title": "БАЛЛАНТАЙНС ФАЙНЕСТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1305",
+      "title": "ДЖЕМЕСОН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "742",
+      "title": "КОРОНА ЭКСТРА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "750",
+      "title": "ШЕРИ ЧЕРРИ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "752",
+      "title": "КРОН БЛАНШ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "754",
+      "title": "МИЛК ОФ АМНЕЗИЯ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "756",
+      "title": "КРОН БЛАНШ (БЕЗАЛКОГОЛЬНОЕ)",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1318",
+      "title": "МЕДОВУХА ПОШ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1320",
+      "title": "СТЕЛЛА АРТУА БЕЗАЛКОГОЛЬНОЕ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1323",
+      "title": "НАТ БАТТЕР БРАУН ЭЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1325",
+      "title": "ШПАТЕН МЮНХЕН ХЕЛЛЕС",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "782",
+      "title": "ЧЕШСКИЙ ЛЕЖАК",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "784",
+      "title": "НЕМЕЦКИЙ ВАЙЗЕН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1354",
+      "title": "ТРОПИЧЕСКИЙ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1356",
+      "title": "МАМИН КАЗАНОВА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1358",
+      "title": "КОСМО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1360",
+      "title": "МАРЬ-ИВАННА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1362",
+      "title": "ПЛЯЖНЫЙ ПЕРЕДОЗ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1364",
+      "title": "ЖИЗНЬ ПО ВЫЗОВУ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1366",
+      "title": "ПОРОЧНАЯ НЕВИННОСТЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1368",
+      "title": "ОНА СКАЗАЛА:РАССЛАБЬСЯ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1370",
+      "title": "МОЛОЧНАЯ СЕСТРА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1372",
+      "title": "ЗЕЛЁНОЕ АЛИБИ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1374",
+      "title": "МАМ, Я БУДУ В ХЛАМ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1376",
+      "title": "РАЗДВИНЬ ГРАНИЦЫ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1378",
+      "title": "СВЕЖИЙ РАЗВРАТ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1380",
+      "title": "МИЛФА СТАЙЛ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "821",
+      "title": "МОХИТО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1383",
+      "title": "ОКОЛО СЕН-ТРОПЕ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1385",
+      "title": "КАЕФНЫЙ ГАММИ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "831",
+      "title": "КИВИ-ЛОТОС",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1401",
+      "title": "ЦВЕТЫ ДА ЯГОДЫ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1403",
+      "title": "ГРУША-ТИМЬЯН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1405",
+      "title": "ГРАНАТ-МАЛИНА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1407",
+      "title": "ЛИМОН-БАЗИЛИК",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1409",
+      "title": "ОБЛЕПИХА-ГРУША",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1411",
+      "title": "ВИШНЯ-МИНДАЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1413",
+      "title": "ВОДА-ЛИМОН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "837",
+      "title": "ОБЛЕПИХОВЫЙ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "839",
+      "title": "СОЧНЫЙ ЦИТРУС",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1419",
+      "title": "ЧЁРНАЯ СМОРОДИНА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1421",
+      "title": "ГРУШЕВЫЙ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1423",
+      "title": "МАЛИНОВЫЙ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "867",
+      "title": "ДОБРЫЙ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "871",
+      "title": "БЁРН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "873",
+      "title": "РИЧ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "875",
+      "title": "СОК РИЧ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "877",
+      "title": "ФРЕШ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "879",
+      "title": "ВОДА ДАУСУЗ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "881",
+      "title": "БОНА АКВА",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1195",
+      "title": "Равиоли с рикоттой",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1197",
+      "title": "Ризотто с грибами",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1199",
+      "title": "Ростбиф в соусе Бородино",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1201",
+      "title": "Салат с лососем, маринованным в карамели",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1203",
+      "title": "Салат с гребешками и трюфельным маслом",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1205",
+      "title": "Салат с хрустящими вешенками",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1207",
+      "title": "Сливочный суп с филе лосося",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1209",
+      "title": "Воздушный грибной крем-суп",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1211",
+      "title": "Крем-суп из цукини",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1238",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МЕРЛО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1240",
+      "title": "ПАПИЛОН ПИНО НУАР",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1242",
+      "title": "БИГ ИНСАЛТ ВАЙН КО. ФУЛ ОФ КРОК ШИРАЗ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1244",
+      "title": "ЛАЙФСТАЙЛ МЕРЛО ВЕСТЕРН КЕЙП",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1246",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МОСКАТЕЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1248",
+      "title": "ВАЙНХАУС ШНАЙДЕР РИСЛИНГ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1250",
+      "title": "АХИМ МАЛЕР РИСЛИНГ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1252",
+      "title": "АДЕГА ПОНТЕ ДА БАРКА РОЗЕ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1393",
+      "title": "БАНАН-КАРАМЕЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1395",
+      "title": "МАНДАРИН-МИНДАЛЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1397",
+      "title": "ОРЕО",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1035",
+      "title": "Пицца римская мясная",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1040",
+      "title": "Пицца римская с грушей и дорблю",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1042",
+      "title": "Пицца римская с лососем",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1335",
+      "title": "САНГРИЯ БЕЛАЯ 500мл",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1337",
+      "title": "САНГРИЯ БЕЛАЯ 1000мл",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1340",
+      "title": "САНГРИЯ КРАСНАЯ 500мл",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1342",
+      "title": "САНГРИЯ КРАСНАЯ 1000мл",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1387",
+      "title": "ГРИН",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1389",
+      "title": "НЕЖНОСТЬ",
+      "interactive": "modal",
+      "cmsManaged": true
+    },
+    {
+      "type": "product-card",
+      "id": "1391",
+      "title": "ОРАНЖ",
+      "interactive": "modal",
+      "cmsManaged": true
+    }
+  ],
+  "staticUi": [
+    {
+      "type": "header",
+      "interactive": true
+    },
+    {
+      "type": "category-carousel",
+      "component": "swiper",
+      "interactive": true
+    },
+    {
+      "type": "product-modal",
+      "component": "bootstrap-modal + fancybox + swiper",
+      "interactive": true
+    },
+    {
+      "type": "language-switcher",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "interactive": true
+    },
+    {
+      "type": "footer",
+      "cmsManaged": true
+    }
+  ]
+}

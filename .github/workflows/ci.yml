@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: kaef
+          POSTGRES_PASSWORD: kaef
+          POSTGRES_DB: kaef_menu
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U kaef" --health-interval 5s
+          --health-timeout 3s --health-retries 10
+    env:
+      DATABASE_URL: postgresql://kaef:kaef@localhost:5432/kaef_menu?schema=public
+      AUTH_SECRET: ci-secret-ci-secret-ci-secret-1234
+      SUPERADMIN_EMAIL: admin@example.com
+      SUPERADMIN_PASSWORD: ChangeMe_2026!
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx prisma migrate deploy
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run db:seed
+      - run: npm run build

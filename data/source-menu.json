@@ -1,0 +1,2510 @@
+{
+  "site": {
+    "title": "KAEF HOOKAH LOUNGE",
+    "baseUrl": "https://qr.kaef-nch.ru"
+  },
+  "categories": [
+    {
+      "slug": "osnovnaya",
+      "title": "Закуски"
+    },
+    {
+      "slug": "salaty",
+      "title": "Салаты"
+    },
+    {
+      "slug": "supy",
+      "title": "Супы"
+    },
+    {
+      "slug": "gorjachie-bljuda",
+      "title": "Горячие блюда"
+    },
+    {
+      "slug": "rolly",
+      "title": "Роллы"
+    },
+    {
+      "slug": "zapechjonnye-rolly",
+      "title": "Запечённые роллы"
+    },
+    {
+      "slug": "garniry",
+      "title": "Гарниры"
+    },
+    {
+      "slug": "sousy",
+      "title": "Соусы"
+    },
+    {
+      "slug": "deserty",
+      "title": "Десерты"
+    },
+    {
+      "slug": "vino",
+      "title": "Красное вино"
+    },
+    {
+      "slug": "beloe-vino",
+      "title": "Белое вино"
+    },
+    {
+      "slug": "rozovoe-vino",
+      "title": "Розовое вино"
+    },
+    {
+      "slug": "igristoe-vino",
+      "title": "Игристое вино"
+    },
+    {
+      "slug": "vodka",
+      "title": "Водка"
+    },
+    {
+      "slug": "rom",
+      "title": "Ром"
+    },
+    {
+      "slug": "dzhin",
+      "title": "Джин"
+    },
+    {
+      "slug": "likjory-i-bittery",
+      "title": "Ликёры и биттеры"
+    },
+    {
+      "slug": "tekila",
+      "title": "Текила"
+    },
+    {
+      "slug": "konjak-i-brendi",
+      "title": "Коньяк и бренди"
+    },
+    {
+      "slug": "viski",
+      "title": "Виски"
+    },
+    {
+      "slug": "pivo",
+      "title": "Бутылочное Пиво"
+    },
+    {
+      "slug": "razlivnoe-pivo",
+      "title": "Разливное пиво"
+    },
+    {
+      "slug": "shoty",
+      "title": "Шоты"
+    },
+    {
+      "slug": "avtorskie-koktejli",
+      "title": "Авторские коктейли"
+    },
+    {
+      "slug": "bezalkogolnye-koktejli",
+      "title": "Безалкогольные коктейли"
+    },
+    {
+      "slug": "avtorskie-limonady",
+      "title": "Авторские лимонады"
+    },
+    {
+      "slug": "avtorskie-chai",
+      "title": "Авторские чаи"
+    },
+    {
+      "slug": "chaj",
+      "title": "Чай"
+    },
+    {
+      "slug": "kofe",
+      "title": "Кофе"
+    },
+    {
+      "slug": "bezalkogolnye-napitki",
+      "title": "Безалкогольные напитки"
+    },
+    {
+      "slug": "special",
+      "title": "SPECIAL"
+    },
+    {
+      "slug": "vina-po-bokalam",
+      "title": "Вина по бокалам"
+    },
+    {
+      "slug": "infuse",
+      "title": "Домашний инфьюз"
+    },
+    {
+      "slug": "milksheik",
+      "title": "Милкшейки"
+    },
+    {
+      "slug": "parovye-koktejli",
+      "title": "Паровые коктейли"
+    },
+    {
+      "slug": "picca",
+      "title": "Пицца"
+    },
+    {
+      "slug": "sangriya",
+      "title": "Сангрии"
+    },
+    {
+      "slug": "smyzi",
+      "title": "Смузи"
+    }
+  ],
+  "products": [
+    {
+      "postId": "461",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Мясная тарелка",
+      "description": "Гармония из говяжьего ростбифа, ветчины, солёного сала и колбасы казылык, со сливочным и имбирным соусами и зерновым хлебом",
+      "price": "990",
+      "weight": "205 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0001.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "470",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Фруктовая тарелка",
+      "description": "Композиция из спелой груши, яблока, сочного мандарина и винограда с клубникой и веточками свежей мяты, посыпанная сахарной пудрой",
+      "price": "990",
+      "weight": "850 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0015.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "473",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Сырная тарелка",
+      "description": "Ансамбль Пармезана, сливочного сыра, Дор блю, Чеддера, сыра Чечил и ягод с кедровыми орешками, виноградом и мёдом",
+      "price": "840",
+      "weight": "240 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0011.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "477",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Тартар из лосося",
+      "description": "Свежий лосось с манго и авокадо с соусами пад-тай и из чёрных бобов, украшенный японской редькой и миксом семечек",
+      "price": "970",
+      "weight": "140 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0003.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "480",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Тартар из говядины",
+      "description": "Вырезка говядины с каперсами, корнишонами и перепелиным яйцом, дополненными зернистой горчицей, красным луком и вустерским соусом",
+      "price": "850",
+      "weight": "150 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0013.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "486",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Вителло Тоннато",
+      "description": "Говяжий ростбиф с рукколой, томлёным соусом тоннато, вялеными томатами и каперсами",
+      "price": "870",
+      "weight": "150 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0005.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "943",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Брускетта с тунцом",
+      "description": "Аппетитная брускетта на булочке бриошь, с нежным сыром Рикотта, вяленными томатами, сочным тунцом, хрустящей смесью семечек и микрозеленью.",
+      "price": "420",
+      "weight": "130 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.05-3.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.05-2.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "945",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Брускетта с лососем",
+      "description": "На хрустящей булочке бриошь - брускетта с лососем, дополненная сливочной Рикоттой и авокадо. Свежесть огурца, пикантность кунжутного и сладость мангового соусов завершают композицию.",
+      "price": "420",
+      "weight": "160 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.05.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.05-1.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "947",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Креветки в соусе Дорблю",
+      "description": "Королевские креветки в сливочном соусе с сыром Дорблю, подаются с хрустящей чиабаттой.",
+      "price": "970",
+      "weight": "200/50 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.06.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.05-4.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "949",
+      "categorySlug": "osnovnaya",
+      "categoryTitle": "Закуски",
+      "title": "Микс орехов",
+      "description": "Фундук, кешью и миндаль в специях с солью, пекан в карамели, арахис в сладком кунжуте.",
+      "price": "890",
+      "weight": "250 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.06-2.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.06-1.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "492",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат Нисуаз со свежим тунцом",
+      "description": "Свежее филе тунца в кунжуте на листьях микса салатов с томатами, авокадо, оливками и картофельными чипсами. Заправляется кунжутным соусом",
+      "price": "820",
+      "weight": "190 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0052.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "495",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с ростбифом",
+      "description": "Говяжий ростбиф в имбирном соусе в композиции из микса салатов, рукколы, болгарского перца, свежего огурца, лука фри, красного лука, и сыра Рикотта",
+      "price": "730",
+      "weight": "195 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0056.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "519",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Цезарь с креветками",
+      "description": "Сочетание тигровых креветок, листьев салата айсберг, свежих томатов и сыра Пармезан",
+      "price": "790",
+      "weight": "220 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0047-1.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "526",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с креветками",
+      "description": "Королевские креветки с миксом салатов, сыром Страчателла, томатами и авокадо. Заправляется ароматным маслом, и украшается семечками",
+      "price": "840",
+      "weight": "210 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0053.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "537",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Поке с лососем",
+      "description": "Нарезанный кубиками лосось в кунжутном соусе, с рисом в соусе пад-тай, в сочетании с сезонными овощами, авокадо и манго.",
+      "price": "840",
+      "weight": "320 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0008.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "951",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с уткой",
+      "description": "Салат с уткой су-вид это игра текстур и вкусов: нежное утиное филе, сочное манго, хрустящий салат романо, руккола, сладкий перец, а также манговый соус и хрустящая смесь семечек.",
+      "price": "690",
+      "weight": "150 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.02-1.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.02-2.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "954",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с индейкой",
+      "description": "Лёгкий и полезный салат с нежным филе индейки су-вид, миксом хрустящих салатных листьев ( руккола, айсберг, романо), сочными помидорами и кабачком. Дополнен перепелиным яйцом, каперсами, хрустящим луком фри и ароматной заправкой из устричного и соевого соусов.",
+      "price": "460",
+      "weight": "170 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.06-3.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.02.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "1201",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с лососем, маринованным в карамели",
+      "description": "Лёгкий и свежий салат с филе лосося, маринованном в карамели, томатами черри и сливочным сыром. Дополнен медово-горчичной заправкой.",
+      "price": "680",
+      "weight": "130гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1203",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с гребешками и трюфельным маслом",
+      "description": "Нежные морские гребешки со свежими салатными листьями и хрустящим картофелем бэби в трюфельной заправке.",
+      "price": "750",
+      "weight": "180гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1205",
+      "categorySlug": "salaty",
+      "categoryTitle": "Салаты",
+      "title": "Салат с хрустящими вешенками",
+      "description": "Хрустящие вешенки в золотистой панировке подаются на подушке из свежего микса салатных листьев с томатами черри.",
+      "price": "650",
+      "weight": "140гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "541",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Том ям с морепродуктами",
+      "description": "Морепродукты, кокосовое молоко и сливки, грибы вешенки, помидоры, рис, кинза, лайм, свежий перец чили",
+      "price": "890",
+      "weight": "500/100 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0043.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "547",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Куриный суп с яичной лапшой",
+      "description": "Куриный бульон с яичной лапшой и куриным филе, перепелиным яйцом, болгарским перцем и репчатым луком",
+      "price": "390",
+      "weight": "400 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0039.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "551",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Борщ",
+      "description": "Говяжий бульон, ростбиф, свёкла, сметана в композиции с зерновой булочкой с чесноком, салом, горчицей и зелёным луком",
+      "price": "720",
+      "weight": "390/70/80 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0037.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1207",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Сливочный суп с филе лосося",
+      "description": "Нежный суп с филе лосося на молочной основе со сливочным вкусом. Подаётся с микрозеленью и ароматным зелёным маслом.",
+      "price": "650",
+      "weight": "300гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1209",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Воздушный грибной крем-суп",
+      "description": "Лёгкий и нежный крем-суп из свежих шампиньонов, сливок и Пармезана.",
+      "price": "550",
+      "weight": "160гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1211",
+      "categorySlug": "supy",
+      "categoryTitle": "Супы",
+      "title": "Крем-суп из цукини",
+      "description": "Нежный крем-суп из свежих цукини. Подаётся с хрустящими гренками, микрозеленью и смесью семечек.",
+      "price": "550",
+      "weight": "280гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "554",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Филе-миньон",
+      "description": "Филе-миньон с картофелем бэби, вешенками и кукурузой, подаётся с ароматным соусом барбекю.&lt;br /&gt; Лёгкая зелень и дайкон придают блюду свежесть и контраст текстур.",
+      "price": "1950",
+      "weight": "210 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/whatsapp-image-2025-10-14-at-09.31.03-3.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/whatsapp-image-2025-10-14-at-09.31.03-2.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "557",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Паста с тартаром из тунца и сыром страчателла",
+      "description": "Итальянская паста, свежий тунец под соусом песто с кедровыми орешками",
+      "price": "940",
+      "weight": "300 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0057.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "560",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Яичная лапша с морепродуктами",
+      "description": "Микс морепродуктов, яичная лапша, лук репчатый, болгарский перец, дайкон маринованный, соевый и устричный соус",
+      "price": "710",
+      "weight": "300 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0019.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "566",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Стейк из лосося",
+      "description": "Филе свежего лосося, рукола, сыр Рикотта, маринованный дайкон, устричный соус",
+      "price": "1790",
+      "weight": "225 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0061.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "569",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Куриная грудка с картофелем и овощами в соусе демиглас",
+      "description": "Куриное филе сувид, сочетание болгарского перца, картофеля, репчатого лука, под сливками и соусом демиглас",
+      "price": "720",
+      "weight": "360 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0060.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "575",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Стейк из индейки",
+      "description": "Филе индейки, рукола, дайкон маринованный, сыр Рикотта, соус песто, редис, смесь семечек, микрозелень",
+      "price": "840",
+      "weight": "190 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0063.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "582",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Бургер",
+      "description": "Говяжья котлета, микс листьев салата, свежие томаты, корнишоны и красный лук под имбирным и сырным соусом",
+      "price": "990",
+      "weight": "400 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0083.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "970",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Паста с креветками и тартаром",
+      "description": "Спагетти, тающие во рту, с нежными креветками и овощами, с добавлением сливок - это идеальное сочетание. А аромат апельсиновой микрозелени и специи придают блюду особую утончённость.",
+      "price": "650",
+      "weight": "320 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.03.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1195",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Равиоли с рикоттой",
+      "description": "Тонкое тесто, нежная рикотта и свежий шпинат со сливочным маслом и выдержанным Пармезаном",
+      "price": "650",
+      "weight": "225гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1197",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Ризотто с грибами",
+      "description": "Кремовое ризотто с Маскарпоне, ароматом трюфеля и лесных грибов. Подаётся с жареными вешенками, микрозеленью и свежемолотым чёрным перцем.",
+      "price": "790",
+      "weight": "200гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1199",
+      "categorySlug": "gorjachie-bljuda",
+      "categoryTitle": "Горячие блюда",
+      "title": "Ростбиф в соусе Бородино",
+      "description": "Нежный ростбиф подаётся с фирменным соусом &quot;Бородино&quot;, обжаренным картофелем бэби и свежей микрозеленью",
+      "price": "750",
+      "weight": "270гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "588",
+      "categorySlug": "rolly",
+      "categoryTitle": "Роллы",
+      "title": "Филадельфия",
+      "description": "Рис, нори, свежий лосось, тигровые креветки, сливочный сыр и огурец",
+      "price": "990",
+      "weight": "235/65 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0021.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "591",
+      "categorySlug": "rolly",
+      "categoryTitle": "Роллы",
+      "title": "Калифорния",
+      "description": "Рис, нори, тигровые креветки, сливочный сыр, икра масаго",
+      "price": "760",
+      "weight": "255/65 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0022.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "594",
+      "categorySlug": "zapechjonnye-rolly",
+      "categoryTitle": "Запечённые роллы",
+      "title": "Ролл том ям",
+      "description": "Рис, нори, тигровые креветки, икра масаго, свежие томаты, зелёный лук, соус том ям",
+      "price": "930",
+      "weight": "250/65 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0025.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "601",
+      "categorySlug": "zapechjonnye-rolly",
+      "categoryTitle": "Запечённые роллы",
+      "title": "Ролл с лососем и тунцом",
+      "description": "Рис, нори, свежее филе лосося и тунца, авокадо, сливочный сыр",
+      "price": "850",
+      "weight": "265/65 гр. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0024.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "974",
+      "categorySlug": "zapechjonnye-rolly",
+      "categoryTitle": "Запечённые роллы",
+      "title": "Ролл с креветкой",
+      "description": "Рис, микрозелень, авокадо, тигровые креветки, соус имбирный, бумага соевая, сыр Пармезан, лосось, тунец.",
+      "price": "950",
+      "weight": "320 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.08-1-1.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.08-2-1.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "607",
+      "categorySlug": "garniry",
+      "categoryTitle": "Гарниры",
+      "title": "Картофель фри",
+      "description": "Подаётся с сыром Пармезан и сырным соусом из Дорблю, Пармезана, Моцареллы и Чеддера",
+      "price": "320",
+      "weight": "150/30 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0031.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "616",
+      "categorySlug": "garniry",
+      "categoryTitle": "Гарниры",
+      "title": "Киноа",
+      "description": "Отварное киноа под ароматным маслом с маринованной японской редькой",
+      "price": "190",
+      "weight": "120 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0033.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "980",
+      "categorySlug": "garniry",
+      "categoryTitle": "Гарниры",
+      "title": "Батат фри с соусом",
+      "description": "Батат, соус сладкий чили, сыр Пармезан.",
+      "price": "400",
+      "weight": "150 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.09-3.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "982",
+      "categorySlug": "garniry",
+      "categoryTitle": "Гарниры",
+      "title": "Картофель бэби с грибами",
+      "description": "Картофель, вешенки, лук репчатый.",
+      "price": "270",
+      "weight": "150 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.10-1.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.10-2.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "1093",
+      "categorySlug": "garniry",
+      "categoryTitle": "Гарниры",
+      "title": "Хлебная корзина",
+      "description": "",
+      "price": "135",
+      "weight": "120",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "632",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Сырный",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "634",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Имбирный",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "636",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Кунжутный",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "638",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Сливочный хрен",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "640",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Барбекю",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "642",
+      "categorySlug": "sousy",
+      "categoryTitle": "Соусы",
+      "title": "Кетчуп",
+      "description": "",
+      "price": "90",
+      "weight": "30 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "627",
+      "categorySlug": "deserty",
+      "categoryTitle": "Десерты",
+      "title": "Тирамису",
+      "description": "Нежный итальянский десерт из воздушного сыра Маскарпоне, пропитанного кофе, печеньем Савоярди и какао. Идеальное сочетание лёгкости и насыщенного кофейного вкуса.",
+      "price": "540",
+      "weight": "170 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0069.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "988",
+      "categorySlug": "deserty",
+      "categoryTitle": "Десерты",
+      "title": "Сметанник с клубникой",
+      "description": "Насладитесь вкусом домашнего уюта с нашим десертом! &lt;br /&gt; Бисквит, пропитанный сметанным кремом, в сочетании с карамельным пеканом и свежей клубникой - словно кусочек летнего счастья!",
+      "price": "620",
+      "weight": "155 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.09-1.jpeg"
+      ],
+      "marks": [
+        "NEW"
+      ],
+      "variations": []
+    },
+    {
+      "postId": "990",
+      "categorySlug": "deserty",
+      "categoryTitle": "Десерты",
+      "title": "Шоколадный фондан",
+      "description": "Безупречное сочетание тёплого, бархатистого шоколада с жидкой сердцевиной и освежающим шариком ванильного мороженного",
+      "price": "870",
+      "weight": "190 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.07-2.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1193",
+      "categorySlug": "deserty",
+      "categoryTitle": "Десерты",
+      "title": "Чизкейк классический",
+      "description": "Классический чизкейк с клубникой и топпингом на выбор",
+      "price": "750",
+      "weight": "180гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1214",
+      "categorySlug": "vino",
+      "categoryTitle": "Красное вино",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МЕРЛО",
+      "description": "Вино красное полусладкое, Чили",
+      "price": "3100",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1217",
+      "categorySlug": "vino",
+      "categoryTitle": "Красное вино",
+      "title": "ПАПИЛОН ПИНО НУАР",
+      "description": "Вино красное сухое, Чили",
+      "price": "2900",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1219",
+      "categorySlug": "vino",
+      "categoryTitle": "Красное вино",
+      "title": "БИГ ИНСАЛТ ВАЙН КО. ФУЛ ОФ КРОК ШИРАЗ",
+      "description": "Вино красное сухое, Франция",
+      "price": "4200",
+      "weight": "750мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1221",
+      "categorySlug": "vino",
+      "categoryTitle": "Красное вино",
+      "title": "ЛАЙФСТАЙЛ МЕРЛО ВЕСТЕРН КЕЙП",
+      "description": "Вино красное сухое, ЮАР",
+      "price": "2900",
+      "weight": "750мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1224",
+      "categorySlug": "beloe-vino",
+      "categoryTitle": "Белое вино",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МОСКАТЕЛЬ",
+      "description": "Вино белое полусладкое,Чили",
+      "price": "3100",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1226",
+      "categorySlug": "beloe-vino",
+      "categoryTitle": "Белое вино",
+      "title": "ВАЙНХАУС ШНАЙДЕР РИСЛИНГ",
+      "description": "Вино белое полусухое, Португалия",
+      "price": "5500",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1228",
+      "categorySlug": "beloe-vino",
+      "categoryTitle": "Белое вино",
+      "title": "АХИМ МАЛЕР РИСЛИНГ",
+      "description": "Вино белое, полусухое Германия.",
+      "price": "3500",
+      "weight": "750мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1230",
+      "categorySlug": "rozovoe-vino",
+      "categoryTitle": "Розовое вино",
+      "title": "АДЕГА ПОНТЕ ДА БАРКА РОЗЕ",
+      "description": "Вино розовое полусухое, Португалия.",
+      "price": "3400",
+      "weight": "750мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1232",
+      "categorySlug": "igristoe-vino",
+      "categoryTitle": "Игристое вино",
+      "title": "ДИ КАСПИКО",
+      "description": "Вино игристое полусладкое, Россия",
+      "price": "1900",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1234",
+      "categorySlug": "igristoe-vino",
+      "categoryTitle": "Игристое вино",
+      "title": "ДИ КАСПИКО",
+      "description": "Игристое вино Брют, Россия",
+      "price": "1900",
+      "weight": "750мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1236",
+      "categorySlug": "igristoe-vino",
+      "categoryTitle": "Игристое вино",
+      "title": "ЭНДЕМЫ РИСЛИНГ",
+      "description": "Игристое вино Брют, Россия",
+      "price": "2500",
+      "weight": "750мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "686",
+      "categorySlug": "vodka",
+      "categoryTitle": "Водка",
+      "title": "АРХАНГЕЛЬСКАЯ",
+      "description": "Россия",
+      "price": "200",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "688",
+      "categorySlug": "vodka",
+      "categoryTitle": "Водка",
+      "title": "МАМОНТ",
+      "description": "Россия",
+      "price": "400",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "690",
+      "categorySlug": "vodka",
+      "categoryTitle": "Водка",
+      "title": "БЕЛУГА НОБЛ",
+      "description": "Россия",
+      "price": "450",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1119",
+      "categorySlug": "vodka",
+      "categoryTitle": "Водка",
+      "title": "ХАНСКАЯ ЛИМИТЕД ЭДИШН",
+      "description": "Россия",
+      "price": "350",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1261",
+      "categorySlug": "rom",
+      "categoryTitle": "Ром",
+      "title": "БАКАРДИ КАРТА НЭГРА",
+      "description": "Тёмный ром, Италия.",
+      "price": "450",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1263",
+      "categorySlug": "rom",
+      "categoryTitle": "Ром",
+      "title": "БАКАРДИ КАРТА БЛАНКА",
+      "description": "Светлый ром, Италия.",
+      "price": "450",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1265",
+      "categorySlug": "dzhin",
+      "categoryTitle": "Джин",
+      "title": "БОМБЕЙ САПФИР",
+      "description": "Великобритания, Лондон.",
+      "price": "700",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "711",
+      "categorySlug": "likjory-i-bittery",
+      "categoryTitle": "Ликёры и биттеры",
+      "title": "ЕГЕРМЕЙСТЕР",
+      "description": "Биттер, Германия.",
+      "price": "410",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "713",
+      "categorySlug": "likjory-i-bittery",
+      "categoryTitle": "Ликёры и биттеры",
+      "title": "КСЕНТА АБСЕНТ",
+      "description": "Италия",
+      "price": "350",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1258",
+      "categorySlug": "likjory-i-bittery",
+      "categoryTitle": "Ликёры и биттеры",
+      "title": "БЕЙЛИС ОРИДЖИНАЛ АЙРИШ КРИМ",
+      "description": "Сливочный ликёр, Ирландия.",
+      "price": "450",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1287",
+      "categorySlug": "tekila",
+      "categoryTitle": "Текила",
+      "title": "ОЛЬМЕКА БЕЛАЯ",
+      "description": "Текила белая, Мексика",
+      "price": "500",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1289",
+      "categorySlug": "tekila",
+      "categoryTitle": "Текила",
+      "title": "ОЛЬМЕКА ЗОЛОТАЯ",
+      "description": "Текила золотая, Мексика",
+      "price": "700",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1292",
+      "categorySlug": "tekila",
+      "categoryTitle": "Текила",
+      "title": "ЛА ПАВЕСА ПЛАТА",
+      "description": "Текила, Россия",
+      "price": "400",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1267",
+      "categorySlug": "konjak-i-brendi",
+      "categoryTitle": "Коньяк и бренди",
+      "title": "АСКАНЕЛИ 5 ЛЕТ",
+      "description": "Бренди, выдержка 5 лет, Грузия.",
+      "price": "500",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1270",
+      "categorySlug": "konjak-i-brendi",
+      "categoryTitle": "Коньяк и бренди",
+      "title": "ХЕННЕССИ ВС",
+      "description": "Коньяк, выдержка от 2 лет, Франция",
+      "price": "950",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1273",
+      "categorySlug": "konjak-i-brendi",
+      "categoryTitle": "Коньяк и бренди",
+      "title": "ХЕННЕССИ ВСОП",
+      "description": "Коньяк, выдержка от 4 лет, Франция",
+      "price": "1200",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1294",
+      "categorySlug": "viski",
+      "categoryTitle": "Виски",
+      "title": "ДЖЕК ДЭНИЕЛС ТЕННЕССИ",
+      "description": "Кукурузный виски. США",
+      "price": "500",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1298",
+      "categorySlug": "viski",
+      "categoryTitle": "Виски",
+      "title": "ДЖОННИ УОКЕР РЭД ЛЕЙБЛ",
+      "description": "Купажированный виски. Шотландия",
+      "price": "450",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1301",
+      "categorySlug": "viski",
+      "categoryTitle": "Виски",
+      "title": "СИНГЛТОН 12 ЛЕТ",
+      "description": "Односолодовый виски. Шотландия.",
+      "price": "850",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1303",
+      "categorySlug": "viski",
+      "categoryTitle": "Виски",
+      "title": "БАЛЛАНТАЙНС ФАЙНЕСТ",
+      "description": "Купажированный виски. Шотландия",
+      "price": "550",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1305",
+      "categorySlug": "viski",
+      "categoryTitle": "Виски",
+      "title": "ДЖЕМЕСОН",
+      "description": "Купажированный виски. Ирландия",
+      "price": "650",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "742",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "КОРОНА ЭКСТРА",
+      "description": "Светлое, фильтрованное, 4,5%&lt;br /&gt; Лёгкий, освежающий лагер, которое хорошо сочетается с лимоном или лаймом. Мексика.",
+      "price": "550",
+      "weight": "330мл.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "750",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "ШЕРИ ЧЕРРИ",
+      "description": "Вишнёвый эль, фильтрованное, 5,0% &lt;br /&gt; Крафтовый вишнёвый эль для ценителей сложных фруктовых оттенков, с натуральным соком вишни. Россия",
+      "price": "500",
+      "weight": "500 мл.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "752",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "КРОН БЛАНШ",
+      "description": "Светлое, нефильтрованное, 4,5%&lt;br /&gt; Мягкое пиво с освежающим вкусом, с нотками цитруса и кориандра. Россия",
+      "price": "470",
+      "weight": "450 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "754",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "МИЛК ОФ АМНЕЗИЯ",
+      "description": "Тропическое, нефильтрованное, 5,5%&lt;br /&gt; Крафтовый, насыщенный стаут с «молочной» мягкостью, популярный среди любителей сочных сладковатых фруктовых сортов, без добавления сахара. Россия",
+      "price": "800",
+      "weight": "500 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "756",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "КРОН БЛАНШ (БЕЗАЛКОГОЛЬНОЕ)",
+      "description": "Безалкогольное&lt;br /&gt; Освежающий вариант для тех, кто избегает алкоголя, но хочет насладиться вкусом пшеничного пива. Россия",
+      "price": "400",
+      "weight": "450 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1318",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "МЕДОВУХА ПОШ",
+      "description": "Светлое, фильтрованное 4,7%&lt;br /&gt; Освежающее пиво естественного брожения, на основе пчелиного мёда с добавлением натурального сока чёрной смородины. Россия",
+      "price": "470",
+      "weight": "450мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1320",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "СТЕЛЛА АРТУА БЕЗАЛКОГОЛЬНОЕ",
+      "description": "Безалкогольное, фильтрованное&lt;br /&gt; Светлый лагер с изысканным свежим горьковатым вкусом. Бельгия.",
+      "price": "400",
+      "weight": "440мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1323",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "НАТ БАТТЕР БРАУН ЭЛЬ",
+      "description": "Тёмный нефильтрованный эль, 5,5%&lt;br /&gt; Для любителей терпкого тёмного пива, имеет ноты орехов и шоколада во вкусе и аромате. Россия&lt;br /&gt;",
+      "price": "700",
+      "weight": "500мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1325",
+      "categorySlug": "pivo",
+      "categoryTitle": "Бутылочное Пиво",
+      "title": "ШПАТЕН МЮНХЕН ХЕЛЛЕС",
+      "description": "Светлое фильтрованное, 5,2%&lt;br /&gt; Немецкий лагер. Вкус полный, свежий, гладкий, раскрывается сладковатыми солодовыми нотками лимона, хмеля. Германия.",
+      "price": "590",
+      "weight": "450мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "782",
+      "categorySlug": "razlivnoe-pivo",
+      "categoryTitle": "Разливное пиво",
+      "title": "ЧЕШСКИЙ ЛЕЖАК",
+      "description": "Светлое, фильтрованное, 4,3%&lt;br /&gt; Идеальный выбор для ценителей классических лагеров, сочетающих в себе гармонию солода и хмеля",
+      "price": "400",
+      "weight": "500 мл.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "784",
+      "categorySlug": "razlivnoe-pivo",
+      "categoryTitle": "Разливное пиво",
+      "title": "НЕМЕЦКИЙ ВАЙЗЕН",
+      "description": "Светлое, нефильтрованное, 4,5%&lt;br /&gt; Традиционное пшеничное пиво, известное своей освежающей фруктово-пряной вкусовой палитрой",
+      "price": "400",
+      "weight": "500 мл.",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1354",
+      "categorySlug": "shoty",
+      "categoryTitle": "Шоты",
+      "title": "ТРОПИЧЕСКИЙ",
+      "description": "Ром, Апероль, банановый сироп, земляничный сироп, сироп бабл-гам, лимонный сок, сублимированная малина.",
+      "price": "280",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1356",
+      "categorySlug": "shoty",
+      "categoryTitle": "Шоты",
+      "title": "МАМИН КАЗАНОВА",
+      "description": "Водка, кокосовый ликёр, кокосовое молоко, кофейный ликёр, миндальный сироп",
+      "price": "280",
+      "weight": "40 мл. ",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1358",
+      "categorySlug": "shoty",
+      "categoryTitle": "Шоты",
+      "title": "КОСМО",
+      "description": "Водка, ликёр Трипл-сек, морс, лимонный сок",
+      "price": "280",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1360",
+      "categorySlug": "shoty",
+      "categoryTitle": "Шоты",
+      "title": "МАРЬ-ИВАННА",
+      "description": "Блю Кюрасао, банановый сироп, апельсиновый сок, яблочный сок, джин",
+      "price": "280",
+      "weight": "40 мл. ",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1362",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "ПЛЯЖНЫЙ ПЕРЕДОЗ",
+      "description": "Водка, банановый сироп, Ликёр Блю Кюрасао, ананасовый сок",
+      "price": "700",
+      "weight": "200мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1364",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "ЖИЗНЬ ПО ВЫЗОВУ",
+      "description": "Апероль, вишнёвый сок, игристое, сироп бабл-гам, вишня",
+      "price": "700",
+      "weight": "200мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1366",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "ПОРОЧНАЯ НЕВИННОСТЬ",
+      "description": "Ликёр, бузина, джин, фейхоа",
+      "price": "700",
+      "weight": "150мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1368",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "ОНА СКАЗАЛА:РАССЛАБЬСЯ",
+      "description": "Суперджус киви-лотос, джин, яблочный сок",
+      "price": "700",
+      "weight": "200мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1370",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "МОЛОЧНАЯ СЕСТРА",
+      "description": "Ананасовый сок, ром, банановый сироп, гренадин",
+      "price": "700",
+      "weight": "120мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1372",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "ЗЕЛЁНОЕ АЛИБИ",
+      "description": "Водка, джин, ром, Трипл-сек, текила, Оранж биттер, дынный сироп, Спрайт",
+      "price": "700",
+      "weight": "200мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1374",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "МАМ, Я БУДУ В ХЛАМ",
+      "description": "Вино, Вишнёвый сок, гранат, малина, джин",
+      "price": "700",
+      "weight": "200мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1376",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "РАЗДВИНЬ ГРАНИЦЫ",
+      "description": "Виски, имбирный инфьюз, сироп агавы, Ангостура",
+      "price": "700",
+      "weight": "100мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1378",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "СВЕЖИЙ РАЗВРАТ",
+      "description": "Абсент, пюре каламанси, Спрайт, базилик, огурец",
+      "price": "700",
+      "weight": "150мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1380",
+      "categorySlug": "avtorskie-koktejli",
+      "categoryTitle": "Авторские коктейли",
+      "title": "МИЛФА СТАЙЛ",
+      "description": "Клубничный сироп, кокосовый ликёр, ром, сироп бабл-гам, кокосовое молоко",
+      "price": "700",
+      "weight": "120мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "821",
+      "categorySlug": "bezalkogolnye-koktejli",
+      "categoryTitle": "Безалкогольные коктейли",
+      "title": "МОХИТО",
+      "description": "Лайм, мята, сахарный сироп, содовая",
+      "price": "380",
+      "weight": "160 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0017-1.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1383",
+      "categorySlug": "bezalkogolnye-koktejli",
+      "categoryTitle": "Безалкогольные коктейли",
+      "title": "ОКОЛО СЕН-ТРОПЕ",
+      "description": "Груша, юдзу, бергамот, апельсиновый сок, сок лимона, гренадин",
+      "price": "360",
+      "weight": "120мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1385",
+      "categorySlug": "bezalkogolnye-koktejli",
+      "categoryTitle": "Безалкогольные коктейли",
+      "title": "КАЕФНЫЙ ГАММИ",
+      "description": "Сироп земляники, сироп бабл-гамм, сок лимона, содовая",
+      "price": "400",
+      "weight": "150мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "831",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "КИВИ-ЛОТОС",
+      "description": "Травянистая кислинка киви смешивается с нежным, цветочным ароматом лотоса",
+      "price": "800",
+      "weight": "1000 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0012.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1401",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ЦВЕТЫ ДА ЯГОДЫ",
+      "description": "Сладость клубники и ежевики смешана с резкой кислинкой клюквы, мята на финише дарит свежесть",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1403",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ГРУША-ТИМЬЯН",
+      "description": "Сочный и освежающий вкус, где сладость спелой груши балансирует с мягкой лимонной кислинкой. Тимьян добавляет напитку приятную травянистую свежесть и благородный пряный аромат",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1405",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ГРАНАТ-МАЛИНА",
+      "description": "Яркий ягодный вкус. Терпкий, слегка вяжущий вкус граната дополнен сладкой ароматной малиной",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1407",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ЛИМОН-БАЗИЛИК",
+      "description": "Супер-освежающая классика. Лимонная кислинка в сочетании со свежим ароматом зелёного базилика.",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1409",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ОБЛЕПИХА-ГРУША",
+      "description": "Яркая облепиха смягчается сладкой медовой грушей.",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1411",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ВИШНЯ-МИНДАЛЬ",
+      "description": "Плотный десертно-сладкий вкус, насыщенная вишня в дуэте с ореховым ароматом миндальной косточки",
+      "price": "800",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1413",
+      "categorySlug": "avtorskie-limonady",
+      "categoryTitle": "Авторские лимонады",
+      "title": "ВОДА-ЛИМОН",
+      "description": "Освежающий напиток, идеален перед едой, и для тех кто предпочитает не сладкие напитки",
+      "price": "200",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "837",
+      "categorySlug": "avtorskie-chai",
+      "categoryTitle": "Авторские чаи",
+      "title": "ОБЛЕПИХОВЫЙ",
+      "description": "Плотный согревающий чай с приятной кислинкой. Насыщенная маслянистая облепиха дополняется пряным ароматом корицы.",
+      "price": "550",
+      "weight": "600 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/08/0021-1.webp"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "839",
+      "categorySlug": "avtorskie-chai",
+      "categoryTitle": "Авторские чаи",
+      "title": "СОЧНЫЙ ЦИТРУС",
+      "description": "Бодрящий микс с сильным цитрусовым ароматом. Сладость апельсина, горчинка мандаринового пюре и кислинка лимонного сока-отлично освежает",
+      "price": "550",
+      "weight": "600 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1419",
+      "categorySlug": "avtorskie-chai",
+      "categoryTitle": "Авторские чаи",
+      "title": "ЧЁРНАЯ СМОРОДИНА",
+      "description": "Яркий чай с глубоким ягодным вкусом. Насыщенная, слегка терпкая смородина смешивается с согревающим ароматом гвоздики и бадьяна.",
+      "price": "550",
+      "weight": "600 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1421",
+      "categorySlug": "avtorskie-chai",
+      "categoryTitle": "Авторские чаи",
+      "title": "ГРУШЕВЫЙ",
+      "description": "Медовая сладость спелой груши балансирует с пряным, слегка хвойным привкусом тимьяна.",
+      "price": "550",
+      "weight": "600 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1423",
+      "categorySlug": "avtorskie-chai",
+      "categoryTitle": "Авторские чаи",
+      "title": "МАЛИНОВЫЙ",
+      "description": "Классический, всеми любимый ягодный вкус малины. Ароматный, сладкий, но не приторный за счёт чайной основы.",
+      "price": "550",
+      "weight": "600мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "867",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "ДОБРЫЙ",
+      "description": "Лимон-лайм / Апельсин / Кола",
+      "price": "250",
+      "weight": "250 мл.",
+      "images": [],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "871",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "БЁРН",
+      "description": "",
+      "price": "350",
+      "weight": "330мл.",
+      "images": [],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "873",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "РИЧ",
+      "description": "Биттер Лемон / Индиан Тоник",
+      "price": "300",
+      "weight": "330мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "875",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "СОК РИЧ",
+      "description": "Яблоко / Вишня / Томат / Ананас / Апельсин",
+      "price": "200",
+      "weight": "200 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "877",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "ФРЕШ",
+      "description": "Апельсин / Яблоко",
+      "price": "350",
+      "weight": "200 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "879",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "ВОДА ДАУСУЗ",
+      "description": "Газированная / негазированная",
+      "price": "380",
+      "weight": "500 мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "881",
+      "categorySlug": "bezalkogolnye-napitki",
+      "categoryTitle": "Безалкогольные напитки",
+      "title": "БОНА АКВА",
+      "description": "Газированная / негазированная",
+      "price": "280",
+      "weight": "330мл.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": [
+        {
+          "weight": "1000 мл.",
+          "price": "1000 ₽"
+        }
+      ]
+    },
+    {
+      "postId": "1195",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Равиоли с рикоттой",
+      "description": "Тонкое тесто, нежная рикотта и свежий шпинат со сливочным маслом и выдержанным Пармезаном",
+      "price": "650",
+      "weight": "225гр",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1197",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Ризотто с грибами",
+      "description": "Кремовое ризотто с Маскарпоне, ароматом трюфеля и лесных грибов. Подаётся с жареными вешенками, микрозеленью и свежемолотым чёрным перцем.",
+      "price": "790",
+      "weight": "200гр",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1199",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Ростбиф в соусе Бородино",
+      "description": "Нежный ростбиф подаётся с фирменным соусом &quot;Бородино&quot;, обжаренным картофелем бэби и свежей микрозеленью",
+      "price": "750",
+      "weight": "270гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1201",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Салат с лососем, маринованным в карамели",
+      "description": "Лёгкий и свежий салат с филе лосося, маринованном в карамели, томатами черри и сливочным сыром. Дополнен медово-горчичной заправкой.",
+      "price": "680",
+      "weight": "130гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1203",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Салат с гребешками и трюфельным маслом",
+      "description": "Нежные морские гребешки со свежими салатными листьями и хрустящим картофелем бэби в трюфельной заправке.",
+      "price": "750",
+      "weight": "180гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1205",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Салат с хрустящими вешенками",
+      "description": "Хрустящие вешенки в золотистой панировке подаются на подушке из свежего микса салатных листьев с томатами черри.",
+      "price": "650",
+      "weight": "140гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1207",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Сливочный суп с филе лосося",
+      "description": "Нежный суп с филе лосося на молочной основе со сливочным вкусом. Подаётся с микрозеленью и ароматным зелёным маслом.",
+      "price": "650",
+      "weight": "300гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1209",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Воздушный грибной крем-суп",
+      "description": "Лёгкий и нежный крем-суп из свежих шампиньонов, сливок и Пармезана.",
+      "price": "550",
+      "weight": "160гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1211",
+      "categorySlug": "special",
+      "categoryTitle": "SPECIAL",
+      "title": "Крем-суп из цукини",
+      "description": "Нежный крем-суп из свежих цукини. Подаётся с хрустящими гренками, микрозеленью и смесью семечек.",
+      "price": "550",
+      "weight": "280гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1238",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МЕРЛО",
+      "description": "Вино красное полусладкое, Чили",
+      "price": "520",
+      "weight": "125мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1240",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "ПАПИЛОН ПИНО НУАР",
+      "description": "Вино красное сухое, Чили",
+      "price": "490",
+      "weight": "125мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1242",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "БИГ ИНСАЛТ ВАЙН КО. ФУЛ ОФ КРОК ШИРАЗ",
+      "description": "Вино красное сухое, Франция",
+      "price": "700",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1244",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "ЛАЙФСТАЙЛ МЕРЛО ВЕСТЕРН КЕЙП",
+      "description": "Вино красное сухое, ЮАР",
+      "price": "490",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1246",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "АЛЬМА ДЕ ЧИЛИ СЕЛЕКШН МОСКАТЕЛЬ",
+      "description": "Вино белое полусладкое, Чили",
+      "price": "520",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1248",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "ВАЙНХАУС ШНАЙДЕР РИСЛИНГ",
+      "description": "Вино белое полусухое, Германия",
+      "price": "920",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1250",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "АХИМ МАЛЕР РИСЛИНГ",
+      "description": "Вино белое полусухое, Германия",
+      "price": "590",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1252",
+      "categorySlug": "vina-po-bokalam",
+      "categoryTitle": "Вина по бокалам",
+      "title": "АДЕГА ПОНТЕ ДА БАРКА РОЗЕ",
+      "description": "Вино розовое полусухое, Португалия",
+      "price": "570",
+      "weight": "125мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1393",
+      "categorySlug": "milksheik",
+      "categoryTitle": "Милкшейки",
+      "title": "БАНАН-КАРАМЕЛЬ",
+      "description": "Банан, молоко, мороженое, карамель",
+      "price": "500",
+      "weight": "350мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1395",
+      "categorySlug": "milksheik",
+      "categoryTitle": "Милкшейки",
+      "title": "МАНДАРИН-МИНДАЛЬ",
+      "description": "Пюре из мандарина, молоко, миндальный сироп, мороженое",
+      "price": "500",
+      "weight": "350мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1397",
+      "categorySlug": "milksheik",
+      "categoryTitle": "Милкшейки",
+      "title": "ОРЕО",
+      "description": "Молоко, шоколадный топпинг, Орео, мороженое",
+      "price": "500",
+      "weight": "350мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1035",
+      "categorySlug": "picca",
+      "categoryTitle": "Пицца",
+      "title": "Пицца римская мясная",
+      "description": "Гармония вкусов и текстур: хрустящее тесто, сочная ветчина, пикантные корнишоны, ароматные сыры Пармезан и Моцарелла, красный лук и свежие помидоры, дополненные белым соусом.",
+      "price": "1050",
+      "weight": "440 гр",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.04-3.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.04-2.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1040",
+      "categorySlug": "picca",
+      "categoryTitle": "Пицца",
+      "title": "Пицца римская с грушей и дорблю",
+      "description": "Игра контрастов: хрустящее тесто, нежная груша, пикантный сыр Дорблю, ароматные сыры Пармезан и Моцарелла, хрустящие кедровые орешки и руккола, дополненные белым соусом.",
+      "price": "1080",
+      "weight": "390 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.04-1.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.04.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1042",
+      "categorySlug": "picca",
+      "categoryTitle": "Пицца",
+      "title": "Пицца римская с лососем",
+      "description": "На хрустящем римском тесте - пицца с лососем, свежим красным луком и миксом сыров Пармезан и Моцарелла, дополненная освежающими листьями салата романо и изысканными соусами.",
+      "price": "1450",
+      "weight": "440 гр.",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.08.jpeg",
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/10/whatsapp-image-2025-10-14-at-09.31.07-3.jpeg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1335",
+      "categorySlug": "sangriya",
+      "categoryTitle": "Сангрии",
+      "title": "САНГРИЯ БЕЛАЯ 500мл",
+      "description": "Традиционный испанский прохладительный напиток на основе белого полусладкого вина, с добавлением свежих фруктов (персик, апельсин, тимьян).",
+      "price": "1300",
+      "weight": "500мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1337",
+      "categorySlug": "sangriya",
+      "categoryTitle": "Сангрии",
+      "title": "САНГРИЯ БЕЛАЯ 1000мл",
+      "description": "Традиционный испанский прохладительный напиток на основе белого полусладкого вина, с добавлением свежих фруктов (персик, апельсин, тимьян).",
+      "price": "2200",
+      "weight": "1000мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1340",
+      "categorySlug": "sangriya",
+      "categoryTitle": "Сангрии",
+      "title": "САНГРИЯ КРАСНАЯ 500мл",
+      "description": "Традиционный испанский прохладительный напиток на основе красного полусладкого вина, с добавлением свежих фруктов (персик, апельсин, розмарин).",
+      "price": "1300",
+      "weight": "500мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1342",
+      "categorySlug": "sangriya",
+      "categoryTitle": "Сангрии",
+      "title": "САНГРИЯ КРАСНАЯ 1000мл",
+      "description": "Традиционный испанский прохладительный напиток на основе красного полусладкого вина, с добавлением свежих фруктов (персик, апельсин, розмарин).",
+      "price": "2200",
+      "weight": "1000мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1387",
+      "categorySlug": "smyzi",
+      "categoryTitle": "Смузи",
+      "title": "ГРИН",
+      "description": "Груша, яблоко, яблочный сок, шпинат, мята, банан",
+      "price": "500",
+      "weight": "350мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1389",
+      "categorySlug": "smyzi",
+      "categoryTitle": "Смузи",
+      "title": "НЕЖНОСТЬ",
+      "description": "Кокосовое молоко, малина, банан, миндальный сироп",
+      "price": "500",
+      "weight": "350мл",
+      "images": [],
+      "marks": [],
+      "variations": []
+    },
+    {
+      "postId": "1391",
+      "categorySlug": "smyzi",
+      "categoryTitle": "Смузи",
+      "title": "ОРАНЖ",
+      "description": "Апельсин, банан, апельсиновый сок, грейпфрут",
+      "price": "500",
+      "weight": "350мл",
+      "images": [
+        "https://qr.kaef-nch.ru/wp-content/uploads/2025/04/poster-min-1.jpg"
+      ],
+      "marks": [],
+      "variations": []
+    }
+  ],
+  "navigation": {
+    "header": [
+      {
+        "href": "https://kaef-nch.ru",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "RU"
+      },
+      {
+        "href": "#",
+        "text": "RU"
+      },
+      {
+        "href": "https://qr.kaef-nch.ru/en/",
+        "text": "EN"
+      },
+      {
+        "href": "https://qr.kaef-nch.ru/zh/",
+        "text": "ZH"
+      }
+    ],
+    "footer": [
+      {
+        "href": "https://t.me/ricardo_quattro",
+        "text": "@ricardo_quattro"
+      }
+    ],
+    "categoryLinks": []
+  }
+}
